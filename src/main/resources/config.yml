@@ -55,8 +55,8 @@ ReturnOnFly:
 
 # RETURN TO SPAWN/CHECKPOINT IF YOU FALL OF SPECIFIED BLOCKS
 ReturnOnFall:
-    Enabled: false
-    BlocksDistance: 5
+    Enabled: true
+    BlocksDistance: 10
 
 
 # ACTION BAR TIMER WHILE PLAYING PARKOUR
