@@ -48,7 +48,7 @@ Timer:
 
 Holograms:
   Stats:
-    Line1: '&a%player%''s %parkour% parkour stats'
+    Line1: '&a%player%''s %parkour% parkour statistics'
     Line2: '&aBest time&7: &6%time%'
   Top:
     Header:
